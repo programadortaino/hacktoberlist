@@ -6,4 +6,4 @@ Esta es una guía para crear el primer pull request en github.
 
 Nombre        | URL                                           | Tecnologías  
 ------------  | --------------------------------------------- | -------------
-Skayablars    | (skayablars)[https://github.com/skayablars]   | php, c#, python, javascript, html, css
+Skayablars    | [skayablars](https://github.com/skayablars)   | php, c#, python, javascript, html, css
