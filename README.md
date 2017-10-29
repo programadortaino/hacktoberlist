@@ -8,4 +8,5 @@ To participate you just have to add your name, your username with a link of your
 Name              | Github Username                                | Tech Stack  
 ----------------- | ---------------------------------------------- | -------------
 Larizza Tueros    | [skayablars](https://github.com/skayablars)    | php, c#, python, javascript, html, css
-Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Python, C++, Java 
+Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Python, C++, Java
+Niklas Lang       | [nl5001](https://github.com/nl5001)            | Python, HTML, CSS, Javascript, C#
