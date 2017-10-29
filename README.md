@@ -7,6 +7,6 @@ To participate you just have to add your name or github username
 
 ## GuestList
 
-Name              Username           | URL                                          | Tech Stack  
+Name              | Username         | URL                                          | Tech Stack  
 ----------------- |----------------- | -------------------------------------------- | -------------
 Larizza Tueros    |Skayablars       |[skayablars](https://github.com/skayablars)    | php, c#, python, javascript, html, css
