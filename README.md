@@ -14,4 +14,5 @@ João Marcelo | [jmarcelinho](https://github.com/jmarcelinho) | Python, C++, Jav
 Niklas Lang       | [nl5001](https://github.com/nl5001)            | Python, HTML, CSS, Javascript, C#
 Himanshu Gautam | [himanshu](https://github.com/himanshu81494) | Python, javascript, C, PHP
 Satyendra singh   | [Satyendra](https://github.com/satysingh87) | php, c++, python, javascript, html, css
+Tom Schmidt | [sittingpilgrim](https://github.com/sittingpilgrim) | html, css, javascript, SQL, PHP
 
