@@ -9,3 +9,4 @@ Name              | Github Username                                | Tech Stack
 ----------------- | ---------------------------------------------- | -------------
 Larizza Tueros    | [skayablars](https://github.com/skayablars)    | php, c#, python, javascript, html, css
 Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Python, C++, Java 
+Tom Wilkinson     | [TomEWilkinson](https://github.com/TomEWilkinson/) | php, c#, javascript, html, css, Java
