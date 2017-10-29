@@ -7,4 +7,4 @@ To participate you just have to add your name in the name, your username with a 
 
 Name              | Github Username                                | Tech Stack  
 ----------------- | ---------------------------------------------- | -------------
-Larizza Tueros    | [skayablars](https://github.com/skayablars)    | php, c#, python, javascript, html, css
+Satyendra singh   | [Satyendra](https://github.com/satysingh87) | php, c++, python, javascript, html, css
