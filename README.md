@@ -10,3 +10,10 @@ Name              | Github Username                                | Tech Stack
 Larizza Tueros    | [skayablars](https://github.com/skayablars)    | php, c#, python, javascript, html, css
 Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Python, C++, Java
 lakshan gunawardhana | [lakshan95](https://github.com/lakshan95/)| python,html css
+Ade Goodyer       | [adegoodyer](https://github.com/adegoodyer)    | java, python
+Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Python, C++, Java 
+Anmesh Choudhury | [anmesh-vicky](https://github.com/anmesh-vicky) | Python, C++, C,html,css,Javascript
+João Marcelo | [jmarcelinho](https://github.com/jmarcelinho) | Python, C++, Java, C
+Niklas Lang       | [nl5001](https://github.com/nl5001)            | Python, HTML, CSS, Javascript, C#
+Himanshu Gautam | [himanshu](https://github.com/himanshu81494) | Python, javascript, C, PHP
+Satyendra singh   | [Satyendra](https://github.com/satysingh87) | php, c++, python, javascript, html, css
