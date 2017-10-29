@@ -13,3 +13,5 @@ Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Py
 João Marcelo | [jmarcelinho](https://github.com/jmarcelinho) | Python, C++, Java, C
 Niklas Lang       | [nl5001](https://github.com/nl5001)            | Python, HTML, CSS, Javascript, C#
 Himanshu Gautam | [himanshu](https://github.com/himanshu81494) | Python, javascript, C, PHP
+Satyendra singh   | [Satyendra](https://github.com/satysingh87) | php, c++, python, javascript, html, css
+
