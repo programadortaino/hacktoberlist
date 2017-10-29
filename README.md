@@ -12,6 +12,7 @@ Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Py
 lakshan gunawardhana | [lakshan95](https://github.com/lakshan95/)| python,html css
 Ade Goodyer       | [adegoodyer](https://github.com/adegoodyer)    | java, python
 Niharika Krishnan | [niharikakrishnan](https://github.com/niharikakrishnan) | Python, C++, Java 
+Jen Strickland    | [jenstrickland](https://github.com/jenstrickland)| html, css, js, php, ruby, python
 Charitha Rajapakse| [Charitha96](https://github.com/Charitha96)    | Java, C++, Javascript, html, css
 Tom Wilkinson     | [TomEWilkinson](https://github.com/TomEWilkinson/) | php, c#, javascript, html, css, Java
 Anmesh Choudhury | [anmesh-vicky](https://github.com/anmesh-vicky) | Python, C++, C,html,css,Javascript
