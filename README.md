@@ -23,6 +23,7 @@ João Marcelo | [jmarcelinho](https://github.com/jmarcelinho) | Python, C++, Jav
 Niklas Lang       | [nl5001](https://github.com/nl5001)            | Python, HTML, CSS, Javascript, C#
 Himanshu Gautam | [himanshu](https://github.com/himanshu81494) | Python, javascript, C, PHP
 Satyendra singh   | [Satyendra](https://github.com/satysingh87) | php, c++, python, javascript, html, css
+Manav Mehra | [Manav](https://github.com/manavmehra96) | Python , C++ , Arduino , Raspberry 
 Priyadarshan Singh | [PDROJACK](https://github.com/PDROJACK) | python, c++ , java ,javascript ,html
 Arfad Kallil.     | [arfu786](https://github.com/arfu786).   |C,C++,HTML,python
 Prabhat tyagi     |[stebinben](https://github.com/stebinben)    |Python,Java,c
