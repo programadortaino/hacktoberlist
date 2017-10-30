@@ -1,4 +1,5 @@
-﻿# hacktoberlist
+# hacktoberlist
+
 
 This is a list of participants to the hacktoberfest event focused in readers of the blog [programadortaino](https://www.programadortaino.com)
 
@@ -23,6 +24,7 @@ João Marcelo | [jmarcelinho](https://github.com/jmarcelinho) | Python, C++, Jav
 Niklas Lang       | [nl5001](https://github.com/nl5001)            | Python, HTML, CSS, Javascript, C#
 Himanshu Gautam | [himanshu](https://github.com/himanshu81494) | Python, javascript, C, PHP
 Satyendra singh   | [Satyendra](https://github.com/satysingh87) | php, c++, python, javascript, html, css
+Felix Guzman | [felixalguzman](https://github.com/felixalguzman)| C, C++, java
 Vaibhav Naik   | [Vaibhav](https://github.com/vaibhavnaikprojects) | java, python, javascript, html, css
 Manav Mehra | [Manav](https://github.com/manavmehra96) | Python , C++ , Arduino , Raspberry 
 Priyadarshan Singh | [PDROJACK](https://github.com/PDROJACK) | python, c++ , java ,javascript ,html
