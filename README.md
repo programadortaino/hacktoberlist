@@ -34,3 +34,4 @@ Prakhar Sapre     | [prakhar10](https://github.com/prakhar10)   | Java, HTML, CS
 Tom Schmidt | [sittingpilgrim](https://github.com/sittingpilgrim) | html, css, javascript, SQL, PHP
 Santiago Caamaño  | [SantiCF](https://github.com/SantiCF)          |  java, python, javascript, html, css
 Nevil Vekariya    | [nevil9]((https://github.com/nevil9)        | c, cpp, java,html,python,ruby,
+Aryan Patel    | [aryan411]((https://github.com/aryan411)        | c, cpp
