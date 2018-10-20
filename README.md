@@ -37,4 +37,4 @@ Nevil Vekariya    | [nevil9]((https://github.com/nevil9)        | c, cpp, java,h
 Aryan Patel    | [aryan411]((https://github.com/aryan411)        | c, cpp                           |
 Josh Cook      | [Joshua](https://github.com/cookiej91)                 | javascript, SQL, Swift                  |
 Josh McEwen    | [joshuamcewenuk]((https://github.com/joshuamcewenuk)        | PHP, JavaScript, HTML, CSS, Java
-
+Armando Herra | [armandoherra](https://github.com/armandoherra) | Vue, Express, Node, MongoDb
