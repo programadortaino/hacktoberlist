@@ -39,3 +39,4 @@ Josh Cook      | [Joshua](https://github.com/cookiej91)                | javascr
 Josh McEwen    | [joshuamcewenuk](https://github.com/joshuamcewenuk)       | PHP, JavaScript, HTML, CSS, Java
 Priyanshu Kumar  | [PRINCE-hacker](https://github.com/PRINCE-hacker)        | Java, Python
 Humberto Arcaya   | [bettoarcaya](https://github.com/bettoarcaya)       | PHP, JavaScript, C#, Java, C++
+Armando Herra | [armandoherra](https://github.com/armandoherra) | MongoDb, Express, Vue, Node 
