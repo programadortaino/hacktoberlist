@@ -29,12 +29,13 @@ Vaibhav Naik   | [Vaibhav](https://github.com/vaibhavnaikprojects) | java, pyth
 Manav Mehra | [Manav](https://github.com/manavmehra96) | Python , C++ , Arduino , Raspberry
 Priyadarshan Singh | [PDROJACK](https://github.com/PDROJACK) | python, c++ , java ,javascript ,html
 Arfad Kallil.     | [arfu786](https://github.com/arfu786).   |C,C++,HTML,python
-Prabhat tyagi     |[stebinben](https://github.com/stebinben)    |Python,Java,c
-Prakhar Sapre     | [prakhar10](https://github.com/prakhar10)   | Java, HTML, CSS, Javascript, Ruby
+Prabhat tyagi     |[stebinben](https://github.com/stebinben)   |Python,Java,c
+Prakhar Sapre     | [prakhar10](https://github.com/prakhar10)  | Java, HTML, CSS, Javascript, Ruby
 Tom Schmidt | [sittingpilgrim](https://github.com/sittingpilgrim) | html, css, javascript, SQL, PHP
 Santiago Caamaño  | [SantiCF](https://github.com/SantiCF)          |  java, python, javascript, html, css
 Nevil Vekariya    | [nevil9](https://github.com/nevil9)        | c, cpp, java,html,python,ruby,
-Aryan Patel    | [aryan411](https://github.com/aryan411)        | c, cpp                           
-Josh Cook      | [Joshua](https://github.com/cookiej91)                 | javascript, SQL, Swift                  
-Josh McEwen    | [joshuamcewenuk]((https://github.com/joshuamcewenuk)        | PHP, JavaScript, HTML, CSS, Java
-Humberto Arcaya    | [bettoarcaya]((https://github.com/bettoarcaya)        | PHP, JavaScript, C#, Java, C++
+Aryan Patel    | [aryan411](https://github.com/aryan411)       | c, cpp                           
+Josh Cook      | [Joshua](https://github.com/cookiej91)                | javascript, SQL, Swift                  
+Josh McEwen    | [joshuamcewenuk]((https://github.com/joshuamcewenuk)       | PHP, JavaScript, HTML, CSS, Java
+Priyanshu Kumar | [PRINCE-hacker] (https://github.com/PRINCE-hacker)        |Java, Python, Kotlin
+Humberto Arcaya   | [bettoarcaya]((https://github.com/bettoarcaya)       | PHP, JavaScript, C#, Java, C++
