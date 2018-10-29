@@ -37,5 +37,5 @@ Nevil Vekariya    | [nevil9](https://github.com/nevil9)        | c, cpp, java,ht
 Aryan Patel    | [aryan411](https://github.com/aryan411)       | c, cpp                           
 Josh Cook      | [Joshua](https://github.com/cookiej91)                | javascript, SQL, Swift                  
 Josh McEwen    | [joshuamcewenuk]((https://github.com/joshuamcewenuk)       | PHP, JavaScript, HTML, CSS, Java
-Priyanshu Kumar | [PRINCE-hacker] (https://github.com/PRINCE-hacker)        |Java, Python, Kotlin
+Priyanshu Kumar  | [PRINCE-hacker] (https://github.com/PRINCE-hacker)        | Java, Python
 Humberto Arcaya   | [bettoarcaya]((https://github.com/bettoarcaya)       | PHP, JavaScript, C#, Java, C++
