@@ -40,3 +40,5 @@ Josh McEwen    | [joshuamcewenuk](https://github.com/joshuamcewenuk)       | PHP
 Priyanshu Kumar  | [PRINCE-hacker](https://github.com/PRINCE-hacker)        | Java, Python
 Humberto Arcaya   | [bettoarcaya](https://github.com/bettoarcaya)       | PHP, JavaScript, C#, Java, C++
 Armando Herra | [armandoherra](https://github.com/armandoherra) | MongoDb, Express, Vue, Node 
+Sebastian Perez | [sperezm97](https://github.com/sperezm97) | React, Koa, React Native, Styled Components
+
