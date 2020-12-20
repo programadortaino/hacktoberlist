@@ -42,3 +42,4 @@ Humberto Arcaya   | [bettoarcaya](https://github.com/bettoarcaya)       | PHP, J
 Armando Herra | [armandoherra](https://github.com/armandoherra) | MongoDb, Express, Vue, Node 
 Sebastian Perez | [sperezm97](https://github.com/sperezm97) | React, Koa, React Native, Styled Components
 Dionicio Diaz A. | [djlocoja](https://github.com/djlocoja) | JavaScript, NodeJs, VueJS, React Native
+Maxwell Varlack | [varlackc](https://github.com/varlackc) | JavaScript, ReactJS, VueJS, NodeJS, Python, C, C++, C#, Java, Matlab, HTML, CSS
